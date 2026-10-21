@@ -18,3 +18,12 @@ quera-solutions\
 Each solution contains:
 - The problem link
 - An simple solution
+
+## Solved probloms
+|#|Name|Difficulty|Link|
+|---|---|---|---|
+|001|Yellow question|Easy|https://quera.org/problemset/3537|
+|002|A simple question|Easy|https://quera.org/problemset/2885|
+|003|Factorial|Easy|https://quera.org/problemset/589|
+|004|Refrigerated storage|Easy|https://quera.org/problemset/3429|
+|005|Pythagorean numbers|medium|https://quera.org/problemset/280|
