@@ -1,3 +1,11 @@
+'''
+
+
+Link:https://quera.org/problemset/3429
+
+'''
+
+
 n = input()
 n = int(n)
 if n>100:

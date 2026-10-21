@@ -1,3 +1,11 @@
+'''
+
+
+Link:https://quera.org/problemset/280
+
+'''
+
+
 a = input()
 a = int(a)
 b = input()

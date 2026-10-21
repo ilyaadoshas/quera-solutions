@@ -1,3 +1,11 @@
+'''
+
+
+Link:https://quera.org/problemset/2885
+
+'''
+
+
 n = input()
 n = int(n)
 s=1
