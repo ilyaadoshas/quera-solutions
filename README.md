@@ -6,11 +6,15 @@ Solutions to coding problems from [Quera](https://quera.org/) written in `python
 
 ```
 quera-solutions\
-|_easy\
-|    |_001-yellow-question-problem.py\
+|_ easy\
+|    |_ 001-yellow-question-problem.py
 |
-|_medium\
+|_ medium\
 |
-|_hard\
+|_ hard\
 |
-|_README.md
+|_ README.md
+```
+Each solution contains:
+- The problem link
+- An simple solution
