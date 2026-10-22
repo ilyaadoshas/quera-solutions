@@ -17,7 +17,7 @@ quera-solutions\
 ```
 Each solution contains:
 - The problem link
-- An simple solution
+- The solution code 
 
 ## Solved probloms
 |#|Name|Difficulty|Link|
